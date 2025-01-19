@@ -1,0 +1,30 @@
+# Core dependencies
+cohere==4.43
+groq==0.3.2
+python-dotenv==1.0.0
+rich==13.7.0
+
+# Speech and Audio
+SpeechRecognition==3.14.0
+PyAudio==0.2.14
+pyttsx3==2.90
+pygame==2.5.2
+edge-tts==6.1.9
+
+# Image Generation
+Pillow==10.2.0
+requests==2.31.0
+
+# Web and Translation
+selenium==4.16.0
+webdriver-manager==4.0.1
+mtranslate==1.8
+
+# Utility
+psutil==5.9.8
+pathlib==1.0.1
+
+AppOpener
+pywhatkit
+googlesearch-python
+PyQt5

@@ -1,0 +1,317 @@
+2025-01-19 11:18:45 - Config - INFO - Logging system initialized in development environment at DEBUG level
+2025-01-19 11:18:45 - Config - DEBUG - Python version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:18:45 - Config - DEBUG - Working directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:18:45 - Config - DEBUG - Log file: Logs\assistant_20250119.log
+2025-01-19 11:18:45 - Config - ERROR - Configuration validation failed: CohereAPIKey is required
+2025-01-19 11:48:20 - Config - INFO - Configuration initialized for EVA
+2025-01-19 11:48:20 - Config - DEBUG - Python Version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:48:20 - Config - DEBUG - Working Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:48:20 - Config - DEBUG - Log File: Logs\assistant_20250119.log
+2025-01-19 11:48:20 - Config - DEBUG - Data Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data
+2025-01-19 11:48:20 - Config - DEBUG - Assistant Name: EVA
+2025-01-19 11:48:20 - Config - DEBUG - Input Language: en-US
+2025-01-19 11:48:20 - Config - DEBUG - Models: ModelConfig(cohere_model='command', groq_model='mixtral-8x7b-32768', stable_diffusion_model='stabilityai/stable-diffusion-2')
+2025-01-19 11:48:20 - Config - INFO - Configuration validation successful
+2025-01-19 11:48:21 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): google.com:443
+2025-01-19 11:48:21 - urllib3.connectionpool - DEBUG - https://google.com:443 "GET / HTTP/1.1" 301 220
+2025-01-19 11:48:21 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2025-01-19 11:48:22 - urllib3.connectionpool - DEBUG - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2025-01-19 11:50:17 - Config - INFO - Configuration initialized for EVA
+2025-01-19 11:50:17 - Config - DEBUG - Python Version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:50:17 - Config - DEBUG - Working Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:50:17 - Config - DEBUG - Log File: Logs\assistant_20250119.log
+2025-01-19 11:50:17 - Config - DEBUG - Data Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data
+2025-01-19 11:50:17 - Config - DEBUG - Assistant Name: EVA
+2025-01-19 11:50:17 - Config - DEBUG - Input Language: en-US
+2025-01-19 11:50:17 - Config - DEBUG - Models: ModelConfig(cohere_model='command', groq_model='mixtral-8x7b-32768', stable_diffusion_model='stabilityai/stable-diffusion-2')
+2025-01-19 11:50:17 - Config - INFO - Configuration validation successful
+2025-01-19 11:50:25 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): google.com:443
+2025-01-19 11:50:25 - urllib3.connectionpool - DEBUG - https://google.com:443 "GET / HTTP/1.1" 301 220
+2025-01-19 11:50:25 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2025-01-19 11:50:26 - urllib3.connectionpool - DEBUG - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2025-01-19 11:50:31 - SpeechToText - INFO - Initializing speech recognition system
+2025-01-19 11:50:31 - SpeechToText - DEBUG - Set recognition language to: en-US
+2025-01-19 11:50:31 - SpeechToText - INFO - Speech recognition HTML template saved to: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data\Voice.html
+2025-01-19 11:50:31 - SpeechToText - DEBUG - Configuring Chrome options
+2025-01-19 11:50:31 - SpeechToText - INFO - Initializing Chrome WebDriver
+2025-01-19 11:50:31 - WDM - INFO - ====== WebDriver manager ======
+2025-01-19 11:50:35 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:50:35 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:50:35 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:50:35 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:50:35 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:50:35 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:50:35 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:50:35 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:50:35 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:50:35 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:50:37 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/known-good-versions-with-downloads.json HTTP/1.1" 200 74654
+2025-01-19 11:50:37 - WDM - INFO - WebDriver version 132.0.6834.83 selected
+2025-01-19 11:50:37 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.83/win32/chromedriver-win32.zip
+2025-01-19 11:50:37 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/132.0.6834.83/win32/chromedriver-win32.zip
+2025-01-19 11:50:37 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): storage.googleapis.com:443
+2025-01-19 11:50:37 - urllib3.connectionpool - DEBUG - https://storage.googleapis.com:443 "GET /chrome-for-testing-public/132.0.6834.83/win32/chromedriver-win32.zip HTTP/1.1" 200 8646826
+2025-01-19 11:50:37 - WDM - INFO - Driver downloading response is 200
+2025-01-19 11:50:37 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:50:37 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:50:38 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:50:38 - WDM - INFO - Driver has been saved in cache [C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83]
+2025-01-19 11:50:38 - selenium.webdriver.common.driver_finder - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe
+2025-01-19 11:50:38 - selenium.webdriver.common.service - DEBUG - Started executable: `C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe` in a child process with pid: 10696 using 0 to output -3
+2025-01-19 11:50:39 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:64138/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36', '--use-fake-ui-for-media-stream', '--use-fake-device-for-media-stream', '--headless=new']}}}}
+2025-01-19 11:50:39 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:64138
+2025-01-19 11:50:41 - urllib3.connectionpool - DEBUG - http://localhost:64138 "POST /session HTTP/1.1" 200 0
+2025-01-19 11:50:41 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"132.0.6834.83","chrome":{"chromedriverVersion":"132.0.6834.83 (03d59cf5ecf1d8444838ff9a1e96231304d4ff9c-refs/branch-heads/6834@{#3390})","userDataDir":"C:\\Windows\\TEMP\\scoped_dir10696_50092389"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64144"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"eaf157b9714a96e8227932e91a6835a1"}} | headers=HTTPHeaderDict({'Content-Length': '859', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2025-01-19 11:50:41 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2025-01-19 11:50:41 - SpeechToText - INFO - Speech recognition system initialized successfully - response_time=9.68
+2025-01-19 11:50:41 - Chatbot - INFO - Groq client initialized successfully
+2025-01-19 11:50:41 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:52:16 - Config - INFO - Configuration initialized for EVA
+2025-01-19 11:52:16 - Config - DEBUG - Python Version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:52:16 - Config - DEBUG - Working Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:52:16 - Config - DEBUG - Log File: Logs\assistant_20250119.log
+2025-01-19 11:52:16 - Config - DEBUG - Data Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data
+2025-01-19 11:52:16 - Config - DEBUG - Assistant Name: EVA
+2025-01-19 11:52:16 - Config - DEBUG - Input Language: en-US
+2025-01-19 11:52:16 - Config - DEBUG - Models: ModelConfig(cohere_model='command', groq_model='mixtral-8x7b-32768', stable_diffusion_model='stabilityai/stable-diffusion-2')
+2025-01-19 11:52:16 - Config - INFO - Configuration validation successful
+2025-01-19 11:52:17 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): google.com:443
+2025-01-19 11:52:17 - urllib3.connectionpool - DEBUG - https://google.com:443 "GET / HTTP/1.1" 301 220
+2025-01-19 11:52:17 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2025-01-19 11:52:18 - urllib3.connectionpool - DEBUG - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2025-01-19 11:52:18 - SpeechToText - INFO - Initializing speech recognition system
+2025-01-19 11:52:18 - SpeechToText - DEBUG - Set recognition language to: en-US
+2025-01-19 11:52:18 - SpeechToText - INFO - Speech recognition HTML template saved to: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data\Voice.html
+2025-01-19 11:52:18 - SpeechToText - DEBUG - Configuring Chrome options
+2025-01-19 11:52:18 - SpeechToText - INFO - Initializing Chrome WebDriver
+2025-01-19 11:52:18 - WDM - INFO - ====== WebDriver manager ======
+2025-01-19 11:52:22 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:52:22 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:52:22 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:52:22 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:52:22 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:52:22 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:52:22 - WDM - INFO - Driver [C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-19 11:52:22 - selenium.webdriver.common.driver_finder - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe
+2025-01-19 11:52:22 - selenium.webdriver.common.service - DEBUG - Started executable: `C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe` in a child process with pid: 21204 using 0 to output -3
+2025-01-19 11:52:22 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:64197/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36', '--use-fake-ui-for-media-stream', '--use-fake-device-for-media-stream', '--headless=new']}}}}
+2025-01-19 11:52:22 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:64197
+2025-01-19 11:52:23 - urllib3.connectionpool - DEBUG - http://localhost:64197 "POST /session HTTP/1.1" 200 0
+2025-01-19 11:52:23 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"132.0.6834.83","chrome":{"chromedriverVersion":"132.0.6834.83 (03d59cf5ecf1d8444838ff9a1e96231304d4ff9c-refs/branch-heads/6834@{#3390})","userDataDir":"C:\\Windows\\TEMP\\scoped_dir21204_1286817041"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64200"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"9fd9e52c1d0c16955a32984421899c5e"}} | headers=HTTPHeaderDict({'Content-Length': '861', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2025-01-19 11:52:23 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2025-01-19 11:52:23 - SpeechToText - INFO - Speech recognition system initialized successfully - response_time=4.95
+2025-01-19 11:53:15 - Config - INFO - Configuration initialized for EVA
+2025-01-19 11:53:15 - Config - DEBUG - Python Version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:53:15 - Config - DEBUG - Working Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:53:15 - Config - DEBUG - Log File: Logs\assistant_20250119.log
+2025-01-19 11:53:15 - Config - DEBUG - Data Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data
+2025-01-19 11:53:15 - Config - DEBUG - Assistant Name: EVA
+2025-01-19 11:53:15 - Config - DEBUG - Input Language: en-US
+2025-01-19 11:53:15 - Config - DEBUG - Models: ModelConfig(cohere_model='command', groq_model='mixtral-8x7b-32768', stable_diffusion_model='stabilityai/stable-diffusion-2')
+2025-01-19 11:53:15 - Config - INFO - Configuration validation successful
+2025-01-19 11:53:16 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): google.com:443
+2025-01-19 11:53:16 - urllib3.connectionpool - DEBUG - https://google.com:443 "GET / HTTP/1.1" 301 220
+2025-01-19 11:53:16 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2025-01-19 11:53:17 - urllib3.connectionpool - DEBUG - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2025-01-19 11:53:17 - SpeechToText - INFO - Initializing speech recognition system
+2025-01-19 11:53:17 - SpeechToText - DEBUG - Set recognition language to: en-US
+2025-01-19 11:53:17 - SpeechToText - INFO - Speech recognition HTML template saved to: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data\Voice.html
+2025-01-19 11:53:17 - SpeechToText - DEBUG - Configuring Chrome options
+2025-01-19 11:53:17 - SpeechToText - INFO - Initializing Chrome WebDriver
+2025-01-19 11:53:17 - WDM - INFO - ====== WebDriver manager ======
+2025-01-19 11:53:20 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:53:20 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:53:20 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:53:20 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:53:20 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:53:20 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:53:20 - WDM - INFO - Driver [C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-19 11:53:20 - selenium.webdriver.common.driver_finder - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe
+2025-01-19 11:53:20 - selenium.webdriver.common.service - DEBUG - Started executable: `C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe` in a child process with pid: 19944 using 0 to output -3
+2025-01-19 11:53:21 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:64233/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36', '--use-fake-ui-for-media-stream', '--use-fake-device-for-media-stream', '--headless=new']}}}}
+2025-01-19 11:53:21 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:64233
+2025-01-19 11:53:22 - urllib3.connectionpool - DEBUG - http://localhost:64233 "POST /session HTTP/1.1" 200 0
+2025-01-19 11:53:22 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"132.0.6834.83","chrome":{"chromedriverVersion":"132.0.6834.83 (03d59cf5ecf1d8444838ff9a1e96231304d4ff9c-refs/branch-heads/6834@{#3390})","userDataDir":"C:\\Windows\\TEMP\\scoped_dir19944_197501537"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64236"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"9803bffc0874c77e7f6c67d71dbb9637"}} | headers=HTTPHeaderDict({'Content-Length': '860', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2025-01-19 11:53:22 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2025-01-19 11:53:22 - SpeechToText - INFO - Speech recognition system initialized successfully - response_time=4.69
+2025-01-19 11:53:22 - Chatbot - INFO - Groq client initialized successfully
+2025-01-19 11:53:22 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:54:21 - Config - INFO - Configuration initialized for EVA
+2025-01-19 11:54:21 - Config - DEBUG - Python Version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:54:21 - Config - DEBUG - Working Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:54:21 - Config - DEBUG - Log File: Logs\assistant_20250119.log
+2025-01-19 11:54:21 - Config - DEBUG - Data Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data
+2025-01-19 11:54:21 - Config - DEBUG - Assistant Name: EVA
+2025-01-19 11:54:21 - Config - DEBUG - Input Language: en-US
+2025-01-19 11:54:21 - Config - DEBUG - Models: ModelConfig(cohere_model='command', groq_model='mixtral-8x7b-32768', stable_diffusion_model='stabilityai/stable-diffusion-2')
+2025-01-19 11:54:21 - Config - INFO - Configuration validation successful
+2025-01-19 11:54:21 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): google.com:443
+2025-01-19 11:54:22 - urllib3.connectionpool - DEBUG - https://google.com:443 "GET / HTTP/1.1" 301 220
+2025-01-19 11:54:22 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2025-01-19 11:54:22 - urllib3.connectionpool - DEBUG - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2025-01-19 11:54:23 - SpeechToText - INFO - Initializing speech recognition system
+2025-01-19 11:54:23 - SpeechToText - DEBUG - Set recognition language to: en-US
+2025-01-19 11:54:23 - SpeechToText - INFO - Speech recognition HTML template saved to: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data\Voice.html
+2025-01-19 11:54:23 - SpeechToText - DEBUG - Configuring Chrome options
+2025-01-19 11:54:23 - SpeechToText - INFO - Initializing Chrome WebDriver
+2025-01-19 11:54:23 - WDM - INFO - ====== WebDriver manager ======
+2025-01-19 11:54:26 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:54:26 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:54:26 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:54:26 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:54:26 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:54:26 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:54:26 - WDM - INFO - Driver [C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-19 11:54:26 - selenium.webdriver.common.driver_finder - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe
+2025-01-19 11:54:26 - selenium.webdriver.common.service - DEBUG - Started executable: `C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe` in a child process with pid: 20580 using 0 to output -3
+2025-01-19 11:54:27 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:64273/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36', '--use-fake-ui-for-media-stream', '--use-fake-device-for-media-stream', '--headless=new']}}}}
+2025-01-19 11:54:27 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:64273
+2025-01-19 11:54:28 - urllib3.connectionpool - DEBUG - http://localhost:64273 "POST /session HTTP/1.1" 200 0
+2025-01-19 11:54:28 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"132.0.6834.83","chrome":{"chromedriverVersion":"132.0.6834.83 (03d59cf5ecf1d8444838ff9a1e96231304d4ff9c-refs/branch-heads/6834@{#3390})","userDataDir":"C:\\Windows\\TEMP\\scoped_dir20580_708913949"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64276"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"e1b26774010e953e2aef770500d63e7f"}} | headers=HTTPHeaderDict({'Content-Length': '860', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2025-01-19 11:54:28 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2025-01-19 11:54:28 - SpeechToText - INFO - Speech recognition system initialized successfully - response_time=4.79
+2025-01-19 11:54:28 - Chatbot - INFO - Groq client initialized successfully
+2025-01-19 11:54:28 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:55:22 - Config - INFO - Configuration initialized for EVA
+2025-01-19 11:55:22 - Config - DEBUG - Python Version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:55:22 - Config - DEBUG - Working Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:55:22 - Config - DEBUG - Log File: Logs\assistant_20250119.log
+2025-01-19 11:55:22 - Config - DEBUG - Data Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data
+2025-01-19 11:55:22 - Config - DEBUG - Assistant Name: EVA
+2025-01-19 11:55:22 - Config - DEBUG - Input Language: en-US
+2025-01-19 11:55:22 - Config - DEBUG - Models: ModelConfig(cohere_model='command', groq_model='mixtral-8x7b-32768', stable_diffusion_model='stabilityai/stable-diffusion-2')
+2025-01-19 11:55:22 - Config - INFO - Configuration validation successful
+2025-01-19 11:55:22 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): google.com:443
+2025-01-19 11:55:23 - urllib3.connectionpool - DEBUG - https://google.com:443 "GET / HTTP/1.1" 301 220
+2025-01-19 11:55:23 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2025-01-19 11:55:23 - urllib3.connectionpool - DEBUG - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2025-01-19 11:55:24 - SpeechToText - INFO - Initializing speech recognition system
+2025-01-19 11:55:24 - SpeechToText - DEBUG - Set recognition language to: en-US
+2025-01-19 11:55:24 - SpeechToText - INFO - Speech recognition HTML template saved to: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data\Voice.html
+2025-01-19 11:55:24 - SpeechToText - DEBUG - Configuring Chrome options
+2025-01-19 11:55:24 - SpeechToText - INFO - Initializing Chrome WebDriver
+2025-01-19 11:55:24 - WDM - INFO - ====== WebDriver manager ======
+2025-01-19 11:55:26 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:55:26 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:55:27 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:55:27 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:55:27 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:55:27 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:55:27 - WDM - INFO - Driver [C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-19 11:55:27 - selenium.webdriver.common.driver_finder - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe
+2025-01-19 11:55:27 - selenium.webdriver.common.service - DEBUG - Started executable: `C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe` in a child process with pid: 21792 using 0 to output -3
+2025-01-19 11:55:27 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:64320/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36', '--use-fake-ui-for-media-stream', '--use-fake-device-for-media-stream', '--headless=new']}}}}
+2025-01-19 11:55:27 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:64320
+2025-01-19 11:55:28 - urllib3.connectionpool - DEBUG - http://localhost:64320 "POST /session HTTP/1.1" 200 0
+2025-01-19 11:55:28 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"132.0.6834.83","chrome":{"chromedriverVersion":"132.0.6834.83 (03d59cf5ecf1d8444838ff9a1e96231304d4ff9c-refs/branch-heads/6834@{#3390})","userDataDir":"C:\\Windows\\TEMP\\scoped_dir21792_1371595121"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64324"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"9e89fa6d5b9186fe13c0b65c88ac5ee2"}} | headers=HTTPHeaderDict({'Content-Length': '861', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2025-01-19 11:55:28 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2025-01-19 11:55:28 - SpeechToText - INFO - Speech recognition system initialized successfully - response_time=4.58
+2025-01-19 11:55:28 - Chatbot - INFO - Groq client initialized successfully
+2025-01-19 11:55:28 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:55:29 - TextToSpeech - ERROR - Failed to import optional dependency: No module named 'pyttsx3'
+2025-01-19 11:55:58 - Config - INFO - Configuration initialized for EVA
+2025-01-19 11:55:58 - Config - DEBUG - Python Version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:55:58 - Config - DEBUG - Working Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:55:58 - Config - DEBUG - Log File: Logs\assistant_20250119.log
+2025-01-19 11:55:58 - Config - DEBUG - Data Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data
+2025-01-19 11:55:58 - Config - DEBUG - Assistant Name: EVA
+2025-01-19 11:55:58 - Config - DEBUG - Input Language: en-US
+2025-01-19 11:55:58 - Config - DEBUG - Models: ModelConfig(cohere_model='command', groq_model='mixtral-8x7b-32768', stable_diffusion_model='stabilityai/stable-diffusion-2')
+2025-01-19 11:55:58 - Config - INFO - Configuration validation successful
+2025-01-19 11:55:59 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): google.com:443
+2025-01-19 11:55:59 - urllib3.connectionpool - DEBUG - https://google.com:443 "GET / HTTP/1.1" 301 220
+2025-01-19 11:55:59 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2025-01-19 11:56:00 - urllib3.connectionpool - DEBUG - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2025-01-19 11:56:00 - SpeechToText - INFO - Initializing speech recognition system
+2025-01-19 11:56:00 - SpeechToText - DEBUG - Set recognition language to: en-US
+2025-01-19 11:56:00 - SpeechToText - INFO - Speech recognition HTML template saved to: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data\Voice.html
+2025-01-19 11:56:00 - SpeechToText - DEBUG - Configuring Chrome options
+2025-01-19 11:56:00 - SpeechToText - INFO - Initializing Chrome WebDriver
+2025-01-19 11:56:00 - WDM - INFO - ====== WebDriver manager ======
+2025-01-19 11:56:03 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:56:03 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:56:03 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:56:03 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:56:03 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:56:04 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:56:04 - WDM - INFO - Driver [C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-19 11:56:04 - selenium.webdriver.common.driver_finder - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe
+2025-01-19 11:56:04 - selenium.webdriver.common.service - DEBUG - Started executable: `C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe` in a child process with pid: 7524 using 0 to output -3
+2025-01-19 11:56:04 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:64357/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36', '--use-fake-ui-for-media-stream', '--use-fake-device-for-media-stream', '--headless=new']}}}}
+2025-01-19 11:56:04 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:64357
+2025-01-19 11:56:05 - urllib3.connectionpool - DEBUG - http://localhost:64357 "POST /session HTTP/1.1" 200 0
+2025-01-19 11:56:05 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"132.0.6834.83","chrome":{"chromedriverVersion":"132.0.6834.83 (03d59cf5ecf1d8444838ff9a1e96231304d4ff9c-refs/branch-heads/6834@{#3390})","userDataDir":"C:\\Windows\\TEMP\\scoped_dir7524_250924800"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64360"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"331e7401f8f807a2cea92b69e5456600"}} | headers=HTTPHeaderDict({'Content-Length': '859', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2025-01-19 11:56:05 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2025-01-19 11:56:05 - SpeechToText - INFO - Speech recognition system initialized successfully - response_time=4.52
+2025-01-19 11:56:05 - Chatbot - INFO - Groq client initialized successfully
+2025-01-19 11:56:05 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:56:05 - Main - INFO - Starting EVA DDM
+2025-01-19 11:56:05 - Main - INFO - Starting initial execution
+2025-01-19 11:56:05 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:56:05 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:56:05 - Main - DEBUG - Writing formatted chat log to database file
+2025-01-19 11:56:05 - Main - DEBUG - Updated GUI with chat history
+2025-01-19 11:56:05 - Main - INFO - Initial execution completed
+2025-01-19 11:56:05 - Main - INFO - Starting voice command thread
+2025-01-19 11:56:05 - Main - INFO - Starting GUI thread
+2025-01-19 11:56:16 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-01-19 11:56:16 - SpeechToText - INFO - Starting speech recognition
+2025-01-19 11:56:16 - SpeechToText - DEBUG - Setting assistant status to: Listening...
+2025-01-19 11:56:16 - SpeechToText - DEBUG - Assistant status updated successfully
+2025-01-19 11:56:17 - SpeechToText - DEBUG - Adjusting for ambient noise
+2025-01-19 11:56:18 - SpeechToText - DEBUG - Listening for speech
+2025-01-19 11:58:08 - Main - INFO - Cleaning up resources
+2025-01-19 11:58:08 - Main - INFO - Application shutdown complete
+2025-01-19 11:58:24 - Config - INFO - Configuration initialized for EVA
+2025-01-19 11:58:24 - Config - DEBUG - Python Version: 3.10.10 (tags/v3.10.10:aad5f6a, Feb  7 2023, 17:20:36) [MSC v.1929 64 bit (AMD64)]
+2025-01-19 11:58:24 - Config - DEBUG - Working Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM
+2025-01-19 11:58:24 - Config - DEBUG - Log File: Logs\assistant_20250119.log
+2025-01-19 11:58:24 - Config - DEBUG - Data Directory: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data
+2025-01-19 11:58:24 - Config - DEBUG - Assistant Name: EVA
+2025-01-19 11:58:24 - Config - DEBUG - Input Language: en-US
+2025-01-19 11:58:24 - Config - DEBUG - Models: ModelConfig(cohere_model='command', groq_model='mixtral-8x7b-32768', stable_diffusion_model='stabilityai/stable-diffusion-2')
+2025-01-19 11:58:24 - Config - INFO - Configuration validation successful
+2025-01-19 11:58:25 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): google.com:443
+2025-01-19 11:58:25 - urllib3.connectionpool - DEBUG - https://google.com:443 "GET / HTTP/1.1" 301 220
+2025-01-19 11:58:25 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): www.google.com:443
+2025-01-19 11:58:26 - urllib3.connectionpool - DEBUG - https://www.google.com:443 "GET / HTTP/1.1" 200 None
+2025-01-19 11:58:26 - SpeechToText - INFO - Initializing speech recognition system
+2025-01-19 11:58:26 - SpeechToText - DEBUG - Set recognition language to: en-US
+2025-01-19 11:58:26 - SpeechToText - INFO - Speech recognition HTML template saved to: C:\Users\Swastik\Desktop\Python Projects\Ai Assistants\E.V.A DDM\Data\Voice.html
+2025-01-19 11:58:26 - SpeechToText - DEBUG - Configuring Chrome options
+2025-01-19 11:58:26 - SpeechToText - INFO - Initializing Chrome WebDriver
+2025-01-19 11:58:26 - WDM - INFO - ====== WebDriver manager ======
+2025-01-19 11:58:29 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:58:29 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:58:29 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:58:29 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-01-19 11:58:29 - urllib3.connectionpool - DEBUG - Starting new HTTPS connection (1): googlechromelabs.github.io:443
+2025-01-19 11:58:29 - urllib3.connectionpool - DEBUG - https://googlechromelabs.github.io:443 "GET /chrome-for-testing/latest-patch-versions-per-build.json HTTP/1.1" 200 9251
+2025-01-19 11:58:29 - WDM - INFO - Driver [C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe] found in cache
+2025-01-19 11:58:29 - selenium.webdriver.common.driver_finder - DEBUG - Skipping Selenium Manager; path to chrome driver specified in Service class: C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe
+2025-01-19 11:58:29 - selenium.webdriver.common.service - DEBUG - Started executable: `C:\Users\Swastik\.wdm\drivers\chromedriver\win64\132.0.6834.83\chromedriver-win32/chromedriver.exe` in a child process with pid: 16416 using 0 to output -3
+2025-01-19 11:58:30 - selenium.webdriver.remote.remote_connection - DEBUG - POST http://localhost:64570/session {'capabilities': {'firstMatch': [{}], 'alwaysMatch': {'browserName': 'chrome', 'pageLoadStrategy': <PageLoadStrategy.normal: 'normal'>, 'goog:chromeOptions': {'extensions': [], 'args': ['user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebkit/537.36 (KHTML, like Gecko) Chrome/89.0.142.86 Safari/537.36', '--use-fake-ui-for-media-stream', '--use-fake-device-for-media-stream', '--headless=new']}}}}
+2025-01-19 11:58:30 - urllib3.connectionpool - DEBUG - Starting new HTTP connection (1): localhost:64570
+2025-01-19 11:58:30 - urllib3.connectionpool - DEBUG - http://localhost:64570 "POST /session HTTP/1.1" 200 0
+2025-01-19 11:58:30 - selenium.webdriver.remote.remote_connection - DEBUG - Remote response: status=200 | data={"value":{"capabilities":{"acceptInsecureCerts":false,"browserName":"chrome","browserVersion":"132.0.6834.83","chrome":{"chromedriverVersion":"132.0.6834.83 (03d59cf5ecf1d8444838ff9a1e96231304d4ff9c-refs/branch-heads/6834@{#3390})","userDataDir":"C:\\Windows\\TEMP\\scoped_dir16416_1662003966"},"fedcm:accounts":true,"goog:chromeOptions":{"debuggerAddress":"localhost:64573"},"networkConnectionEnabled":false,"pageLoadStrategy":"normal","platformName":"windows","proxy":{},"setWindowRect":true,"strictFileInteractability":false,"timeouts":{"implicit":0,"pageLoad":300000,"script":30000},"unhandledPromptBehavior":"dismiss and notify","webauthn:extension:credBlob":true,"webauthn:extension:largeBlob":true,"webauthn:extension:minPinLength":true,"webauthn:extension:prf":true,"webauthn:virtualAuthenticators":true},"sessionId":"1403b73b0aca2df7d8260ab397f7a015"}} | headers=HTTPHeaderDict({'Content-Length': '861', 'Content-Type': 'application/json; charset=utf-8', 'cache-control': 'no-cache'})
+2025-01-19 11:58:30 - selenium.webdriver.remote.remote_connection - DEBUG - Finished Request
+2025-01-19 11:58:30 - SpeechToText - INFO - Speech recognition system initialized successfully - response_time=4.19
+2025-01-19 11:58:30 - Chatbot - INFO - Groq client initialized successfully
+2025-01-19 11:58:30 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:58:31 - Main - INFO - Starting EVA DDM
+2025-01-19 11:58:31 - Main - INFO - Starting initial execution
+2025-01-19 11:58:31 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:58:31 - Config - DEBUG - Chat log loaded: 4 messages
+2025-01-19 11:58:31 - Main - DEBUG - Writing formatted chat log to database file
+2025-01-19 11:58:31 - Main - DEBUG - Updated GUI with chat history
+2025-01-19 11:58:31 - Main - INFO - Initial execution completed
+2025-01-19 11:58:31 - Main - INFO - Starting voice command thread
+2025-01-19 11:58:31 - Main - INFO - Starting GUI thread
+2025-01-19 11:58:46 - asyncio - DEBUG - Using proactor: IocpProactor
+2025-01-19 11:58:46 - SpeechToText - INFO - Starting speech recognition
+2025-01-19 11:58:46 - SpeechToText - DEBUG - Setting assistant status to: Listening...
+2025-01-19 11:58:46 - SpeechToText - DEBUG - Assistant status updated successfully
+2025-01-19 11:58:46 - SpeechToText - DEBUG - Adjusting for ambient noise
+2025-01-19 11:58:47 - SpeechToText - DEBUG - Listening for speech
+2025-01-19 11:59:29 - Main - INFO - Cleaning up resources
+2025-01-19 11:59:29 - Main - INFO - Application shutdown complete
